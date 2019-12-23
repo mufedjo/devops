@@ -1,12 +1,14 @@
-<h1> Hello, Welcome to Simple DevOps Project Dude !!   </h1>
-<h2> Data Service Group is your learning partner </h2>
-<h2> Glad to ppreciate your being here </h2>
-<h2>  _____________________________ </h2>
-<h2> /				   \ </h2>
-<h2> |				   | </h2>
-<h2> |	D E V O P S  I G E N E E R | </h2>
-<h2> |				   | </h2>
-<h2> \_____________________________/ </h2>
-<h2> 				     </h2>
-<h2> Now smile!! This is a great day </h2>
-<h1> Good job Dude learning Devops   </h1>
+<h1> Hello, Welcome to class !!   </h1>
+<h2> Data Service Group is great   </h2>
+<h2> Glad to see you here </h2>
+<h2>  ____________________________  </h2>
+<h2> /				  \ </h2>
+<h2> |	IS IS POSSIBLE TO BE	  | </h2>
+<h2> |                            | </h2>
+<h1> |            A GOOD          | </h1>
+<h2> |                            | </h2>
+<h1> |       DEVOPS ENGINEER      | </h1>
+<h2> |                            | </h2>
+<h2> |         IN 6 MONTHS        | </h2>
+<h2> \____________________________/ </h2>
+<h1>     Thank you Prof Serge       </h1>
